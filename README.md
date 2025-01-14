@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning about recurrent tasks<br>🌱Passionate about learning new things<br>🎓 Self-taught developer<br>🎮 Passionate about video games</p>
+<p align="left">📚 I'm currently learning about AWS<br>🌱Passionate about learning new things<br>🎓 Self-taught developer<br>🎮 Passionate about video games</p>
 
 ###
 
